@@ -75,14 +75,16 @@ A comprehensive Flutter e-commerce application featuring real-time order trackin
 <div align="center">
 
 ### Splash & Authentication
+
 | Splash Screen | Login Screen |
 |:---:|:---:|
-| ![Splash](screenshots/splash.png) | ![Login](screenshots/login.png) |
+| ![Splash](./screenshots/splash.png) | ![Login](./screenshots/login.png) |
 
 ### Main Features
+
 | Home Screen | Product Details | Shopping Cart |
 |:---:|:---:|:---:|
-| ![Home](screenshots/home.png) | ![Details](screenshots/details.png) | ![Cart](screenshots/cart.png) |
+| ![Home](./screenshots/home.png) | ![Details](./screenshots/details.png) | ![Cart](./screenshots/cart.png) |
 
 </div>
 
@@ -148,8 +150,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/24164369/ecommerce_project.git
-   cd ecommerce_project
+   git clone https://github.com/balygh-tajalden/flutter-ecommerce.git
+   cd flutter-ecommerce
    ```
 
 2. **Install dependencies**
@@ -323,9 +325,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 **Contact**
 
-**Developer**: Your Name  
-**Email**: your.email@example.com  
-**GitHub**: [@24164369](https://github.com/24164369)
+**Developer**: Balygh Tajalden  
+**Email**: info@balygh.com  
+**GitHub**: [@balygh-tajalden](https://github.com/balygh-tajalden)
 
 ---
 
@@ -408,8 +410,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 1. **استنساخ المشروع**
    ```bash
-   git clone https://github.com/24164369/ecommerce_project.git
-   cd ecommerce_project
+   git clone https://github.com/balygh-tajalden/flutter-ecommerce.git
+   cd flutter-ecommerce
    ```
 
 2. **تثبيت التبعيات**
